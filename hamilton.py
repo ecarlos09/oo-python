@@ -1,3 +1,5 @@
+#  To run this, type 'python hamilton.py' in terminal
+
 import pdb
 import datetime # Module for converting to dates
 
